@@ -15,7 +15,7 @@ _install_requires = [
 setup(
     name='pygments-finesse',
     author='Philip Jones',
-    url='https://github.com/philj56/pygments-finesse'
+    url='https://github.com/philj56/pygments-finesse',
     description=_short_description,
     version=_version,
     packages=_packages,
