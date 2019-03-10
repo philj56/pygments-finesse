@@ -1,2 +1,2 @@
 # pygments-finesse
-Pygments lexer for finesse `.kat` files.
+Pygments lexer for Finesse `.kat` files.
